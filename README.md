@@ -8,7 +8,7 @@ Hi! I’m a data scientist by training and currently working as a Quantitative A
 - **LLM Applications** — Building various LLM-powered applications.
 
 <p align="center">
-<a href="https://github.com/edgarriba">
+<a href="https://github.com/Big-Marvel">
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Big-Marvel&theme=github_dark"/>
 </a>
 </p>
