@@ -1,6 +1,6 @@
 ### Hi👋 I'm Keshav Singh
 
-Hi! I’m a data scientist by training and currently working as a Quantitative Analytics Associate at [Wells Fargo](https://www.wellsfargo.com/). I enjoy tackling problems with real-world impact by probing their most fundamental layer: Data! I’m also deeply passionate about research in Generative AI, particularly in the emerging field of Agentic AI.
+Hi! I’m a data scientist by training and currently working as a Quantitative Analyst. I enjoy tackling problems with real-world impact by probing their most fundamental layer: Data! I’m also deeply passionate about research in Generative AI, particularly in the emerging field of Agentic AI.
 
 #### Current focus
 
